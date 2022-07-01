@@ -1,6 +1,7 @@
 # Privacy Policy
 
-### Android1500 values your privacy. When you use our services (including websites and applications), we may collect and use your related information. If the related information was not provided, we may not able to operate effectively and provide you with the best experiences from our services. So we’ve developed a Privacy Policy that covers aspects of how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+
+  Android1500 values your privacy. When you use our services (including websites and applications), we may collect and use your related information. If the related information was not provided, we may not able to operate effectively and provide you with the best experiences from our services. So we’ve developed a Privacy Policy that covers aspects of how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
 ### Collection and Use of Personal Information
     
@@ -11,8 +12,7 @@
    Personal Information is what identifies you or another person, such as your first name and last name, physical addresses, email addresses, telephone numbers, fax numbers and information stored within your device.
     We will not collect or store your Personal Information and we will not use, transfer or disclose your Personal Information.
     
-    
- ### Information Security
+### Information Security
     
    Android1500 is very concerned about safeguarding the confidentiality of your information. We will not collect Personal Information, in the meanwhile we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use.
     
