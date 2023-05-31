@@ -12,12 +12,12 @@ UNLESS YOU HAVE READ AND ACCEPT ALL THE TERMS OF THIS AGREEMENT, YOU MAY NOT DOW
 protocol usage scope
 This Agreement is the standing agreement between you and Android1500 regarding your download, use, installation, use, copying of the Software, and your use of the Software.
 
-2、software acquisition
+### software acquisition
 2.1 You can directly download the latest version on Github Release.
 
 2.2 If you have ever obtained the Software from a channel other than the above, Android1500 cannot guarantee that the Software can be used properly, and is not responsible for any damages caused to you.
 
-3、 Software installation and update
+### Software installation and update
 3.1 After downloading the installation program, you need to follow the steps of the program prompt to install correctly.
 
 3.2 In order to improve the user experience and perfect service information, Android1500 will constantly strive to develop new services and provide you with software updates from time to time.
@@ -26,17 +26,17 @@ This Agreement is the standing agreement between you and Android1500 regarding y
 
 3.4 After the new version of this software is released, the old version of the software may not be used. Android1500 does not guarantee that the old version of the software will continue to be available and the corresponding customer service, please check and download the latest version at any time.
 
-4. User personal information protection
+### User personal information protection
 4.1 Protecting User's personal information is a fundamental principle of Android1500, Android1500 will take reasonable measures to protect User's personal information. Android1500 will not disclose, disclose User's personal information to third parties without User's permission.
 
 4.2 In the process of registering an account or using this service, you need to provide some necessary information, such as: to provide you with an account registration service or user identification, you need to enter an email address. If the information you provide is incomplete, If you cannot use this service or you are limited in the process of use.
 
-五、User's note
+### User's note
 5.1 If you stop using the Software and the Services or the Services are terminated or cancelled, Android1500 may permanently delete your data from the servers. Following suspension, termination or cancellation of the Services, Android1500 is under no obligation to return any data to you.
 
 5.2 Android1500 is not responsible for the deletion or failure of storage of relevant data on your Software and Services;
 
-六、Terms of Use and Disclaimer
+### Terms of Use and Disclaimer
 6.1 This software is intended to help Android developers debug system parameters. Prohibited for using swatches, etc. illegal behavior.
 
 6.2 The use of this software may present certain risks to the system, such as the inability to open the machine. The damage caused by you is not related to the developer.
