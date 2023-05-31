@@ -37,7 +37,7 @@ This Agreement is the standing agreement between you and Android1500 regarding y
 5.2 Android1500 is not responsible for the deletion or failure of storage of relevant data on your Software and Services;
 
 ### Terms of Use and Disclaimer
-6.1 This software is intended to help Android developers debug system parameters. Prohibited for using swatches, etc. illegal behavior.
+6.1 This software is intended to help Android developers debug system parameters and users for prevent share device parameters to other apps for better privacy. Prohibited for using swatches, etc. illegal behavior.
 
 6.2 The use of this software may present certain risks to the system, such as the inability to open the machine. The damage caused by you is not related to the developer.
 
